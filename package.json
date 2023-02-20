@@ -1,0 +1,15 @@
+{
+  "name": "gsheet-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NavaneethVijay",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "yargs": "^17.6.2"
+  }
+}
